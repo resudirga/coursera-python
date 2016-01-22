@@ -3,7 +3,7 @@ Mini projects for the following Coursera courses:
 * Introduction to Interactive Programming in Python <a href="https://www.coursera.org/course/interactivepython1"> part 1 </a> and <a href="https://www.coursera.org/course/interactivepython2"> part 2 </a>
 * <a href="https://www.coursera.org/course/principlescomputing1"> Principles of Computing (part 1) </a>. 
 
-To run these codes on <a href="http://www.codeskulptor.org/"> CodeSkulptor </a>, click on the following links:
+To display these codes on <a href="http://www.codeskulptor.org/"> CodeSkulptor </a>, click on the following links. Press "R" to run the codes:
 
 * <a href="http://www.codeskulptor.org/#user41_1TD6JnRRJc_0.py">Stopwatch </a>
 * <a href="http://www.codeskulptor.org/#user41_m789ByJpAT_0.py">Pong</a>
